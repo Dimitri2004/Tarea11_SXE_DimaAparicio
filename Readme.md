@@ -2,7 +2,7 @@
 ___Realizamos el docker-compose.yaml para crear servicios___
 
 
-Esto lo debemos hacer con odoo version 18 y su base de datos postgres, recomendable la version 15
+Esto lo debemos hacer con odoo version 18 y su base de datos postgres, recomendable la version 15 nota:en el servicio de odoo le puse "web:", pero en realidad deberia de ser "odoo:"
 
 ![SERVICIOSDOCKER.png](Imagenes/SERVICIOSDOCKER.png)
 
