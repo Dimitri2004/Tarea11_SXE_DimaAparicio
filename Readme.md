@@ -20,13 +20,14 @@ ___Realizamos la activacion de caractertisticas de odoo___
 Una vez nos registremos con el correo :admin@examle.com y contraseña:admin podemos activar ventanas,compras,contactos
 ![ACTIVACIONODOO.png](Imagenes/ACTIVACIONODOO.png)
 
+![PGADMINBD.png](Imagenes/PGADMINBD.png)
 
 
 ### PASO 4
 ___Realizamos la entrada en pgadmin y creamos un nuevo servidor asignado al nombre de la base de datos que pusimos___
 
+<img width="1324" height="944" alt="Captura desde 2025-11-07 09-40-05" src="https://github.com/user-attachments/assets/a5266d89-6a49-4ace-b89d-c8d7c22d9cd0" />
 
-![PGADMINBD.png](Imagenes/PGADMINBD.png)
 
 
 Una vez que lo creemos nos dejaria entrar en BasesdeDatos/db/Esquemas/Tablas donde podemos ver que se instalaron correctamente
